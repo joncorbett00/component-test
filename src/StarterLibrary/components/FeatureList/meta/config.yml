@@ -1,4 +1,5 @@
 label: Feature List
+title: Feature List
 description: Showcase lists of features.
 parameters:
     - name: align
