@@ -1,0 +1,11 @@
+label: Feature List
+description: Showcase lists of features.
+parameters:
+    - name: align
+      label: Alignment
+      description: The content alignment
+      type: string
+      enum:
+          - { label: Center, value: center }
+          - { label: Left, value: left }
+      default: center
