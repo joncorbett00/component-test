@@ -1,6 +1,12 @@
-label: Feature List
-title: Feature List
-description: Showcase lists of features.
+title: 
+  en: Feature List
+  fr: Feature List
+label: 
+  en: Feature List
+  fr: Feature List
+description:
+  en: Idk features
+  fr: Idk features
 parameters:
     - name: align
       label: Alignment
